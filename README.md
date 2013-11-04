@@ -1,5 +1,5 @@
-bowling
-=======
+Bowling Game
+============
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game. This is a summary of the rules of the game:
 - Each game, or “line” of bowling, includes ten turns, or “frames” for the bowler.
 - In each frame, the bowler gets up to two tries to knock down all the pins.
